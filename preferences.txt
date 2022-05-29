@@ -1,0 +1,5 @@
+movie: Hard to die
+serious: Friends
+food: Pizza
+seasons: Summer
+country: Spain

@@ -1,0 +1,7 @@
+git bash,
+git,
+postman,
+QA theory,
+QA practice,
+etc
+
